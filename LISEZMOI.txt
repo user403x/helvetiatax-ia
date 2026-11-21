@@ -1,0 +1,10 @@
+HelvetiaTax IA – GitHub Pages
+=============================
+Déposer à la racine du dépôt « projet-ia » : index.html, config.js, kb.json.
+
+1. Créer une clé gratuite sur aistudio.google.com (Get API key).
+2. Ouvrir config.js et coller la clé entre les guillemets de geminiKey.
+3. Upload files sur GitHub (Add file > Upload files > Commit changes).
+4. Attendre 1 à 2 minutes, puis ouvrir https://user403x.github.io/projet-ia/
+   En haut à droite : « IA active ». Sans clé ou en cas d'erreur, l'assistant
+   répond avec les extraits de la base (kb.json), sans blocage.
